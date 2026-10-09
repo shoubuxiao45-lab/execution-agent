@@ -1,0 +1,5 @@
+# 字段说明；设置在手机端填写。本文件不由构建读取，不要放入真实密钥。
+AI_BASE_URL=https://api.moonshot.cn/v1/
+AI_API_KEY=
+AI_MODEL=kimi-k2.6
+

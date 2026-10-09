@@ -1,0 +1,30 @@
+.gradle/
+.gradle-user-home/
+.kotlin/
+**/build/
+local.properties
+ai.local.properties
+*.jks
+*.keystore
+.idea/
+*.iml
+
+# Personal credentials and local application data
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.preferences_pb
+
+# Generated packages and host tooling caches
+*.apk
+*.aab
+__pycache__/
+*.pyc
